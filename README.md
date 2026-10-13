@@ -28,14 +28,6 @@ jupyter notebook NVDA_Ridge_Forecasting_Revised.ipynb   # Kernel -> Restart & Ru
 * Random seeds are fixed, so bootstrap output is identical on every run.
 * Package versions used are printed in the first code cell.
 
-## Export the HTML copy
-
-```bash
-jupyter nbconvert --to html --execute NVDA_Ridge_Forecasting_Revised.ipynb
-```
-
-For a PDF, open the HTML file in a browser and use Print -> Save as PDF.
-
 ## Contents of the notebook
 
 1. Data and preprocessing
